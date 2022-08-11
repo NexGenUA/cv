@@ -259,19 +259,19 @@ h2 {
 
 .title-h4 {
   color: rgb(72, 72, 72);
-  margin: 0;
   position: relative;
   display: flex;
   justify-content: space-between;
   padding-left: 20px;
   border-left: 1.5px solid rgb(99, 103, 124);
-  margin-bottom: 5px;
+  margin: 0 0 5px;
 }
 
 .title-h4__date {
   color: rgb(72, 72, 72);
   font-weight: 500;
   font-size: 14px;
+  white-space: nowrap;
 }
 
 .title-h4__desc {
